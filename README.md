@@ -66,3 +66,9 @@ jupyter notebook notebooks/gold_recovery_project_integrado_v5.ipynb
 
 **Author:** Emerson Ríos · 2025  
 **License:** MIT
+
+
+> ⚠️ **Data Availability:**  
+> The datasets used in this project are property of TripleTen and cannot be shared publicly.  
+> The repository includes all code and notebooks required to reproduce the analysis with similar data structures.
+
